@@ -1,4 +1,3 @@
 F3 entered
 "two " 
-Conflict Line 2 on 2
 2 on 2
