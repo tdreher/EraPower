@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"F4 created in Master" 
-=======
-"new in F4" 
->>>>>>> F4
+both are wrong, this is a brand new merge content
